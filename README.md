@@ -11,7 +11,7 @@ Less littered core that does not have a problem with bluetooth audio devices and
 
 Support https://www.youtube.com/channel/UC6WtVfU5gi2CQ4ionzbz1CQ and donate dollar card visa VISA 4817 7601 8112 4706 thanks
 
-My job idea portation rebuild send meinteiner gnome-control-center ubuntu 21.04 to 20.04 dev simlink not problem
+My job idea portation rebuild send maintainer gnome-control-center ubuntu 21.04 to 20.04 dev spawn simlink not problem
 
 sudo ln -s /usr/lib/x86_64-linux-gnu/libgtk-3.so.0 /usr/lib/x86_64-linux-gnu/libgtk-3.so
 
