@@ -3,7 +3,7 @@ ubuntu 20.04 , gnome-control-center-3.36.8 , fix resize
 
 Preview control-center: https://github.com/Griggorii/gnome-control-center-3.36.8-ubuntu-20.04-update-new/blob/main/gnome-control-center-fix.webm
 
-Fixed: now shows access to the camera and microphone in the privacy tab, also suitable for older kernels where the power widget tab has disappeared when using an older but most likely less cluttered kernel
+Fixed: now shows access to the camera and microphone in the privacy tab, also suitable for older kernels where the power widget battary tab has disappeared when using an older but most likely less cluttered kernel
 
 Deb package ubuntu 20.04 generation https://github.com/Griggorii/gnome-control-center-3.36.8-ubuntu-20.04-update-new/releases/tag/ubuntu-20.04
 
