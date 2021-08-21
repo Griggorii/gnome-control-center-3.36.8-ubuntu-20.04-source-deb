@@ -1,4 +1,4 @@
-# gnome-control-center-3.36.8-ubuntu-20.04-source-deb
+# gnome-control-center-3.36.8-ubuntu-20.04-update-new
 ubuntu 20.04 , gnome-control-center-3.36.8 , fix resize
 
 https://youtu.be/45iNZPhmIas install meson , ninja
