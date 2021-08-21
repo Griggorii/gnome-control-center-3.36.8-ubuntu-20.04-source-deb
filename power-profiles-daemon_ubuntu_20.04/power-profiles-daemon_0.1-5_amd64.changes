@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Sat, 21 Aug 2021 13:27:30 +0800
+Source: power-profiles-daemon
+Binary: power-profiles-daemon
+Architecture: source amd64
+Version: 0.1-5
+Distribution: experimental
+Urgency: medium
+Maintainer: Debian freedesktop.org maintainers <pkg-freedesktop-maintainers@lists.alioth.debian.org>
+Changed-By: Griggorii <griggorii@gmail.com>
+Description:
+ power-profiles-daemon - Makes power profiles handling available over D-Bus.
+Changes:
+ power-profiles-daemon (0.1-5) experimental; urgency=medium
+ .
+   * Rebuild test pere port to ubuntu 20.04
+Checksums-Sha1:
+ 45982afc7e3dfc95ac1faa6053d87c50df89804d 1550 power-profiles-daemon_0.1-5.dsc
+ 35b109d993cfb94565ed82ac82989b9e4f6f913f 3740 power-profiles-daemon_0.1-5.debian.tar.xz
+ 51d4262555b8cbf054bbaecbac180768939c0794 54768 power-profiles-daemon-dbgsym_0.1-5_amd64.ddeb
+ 6a191be2647c8ece0c885de289eaa6742d050e75 8899 power-profiles-daemon_0.1-5_amd64.buildinfo
+ 4db595bd4f6d52a7b9921bf052ca5acbea62992d 19764 power-profiles-daemon_0.1-5_amd64.deb
+Checksums-Sha256:
+ 37f091a5c387353e414364f2ff93940ee889980b9e9cb29a1e2a9c4e70569344 1550 power-profiles-daemon_0.1-5.dsc
+ 9f7caf769a127172d38714b5c4def314cb0de5ecef63f45217132d86317d5919 3740 power-profiles-daemon_0.1-5.debian.tar.xz
+ 0d8e08696f92149c4a8341a738be113ba837997a3a3ed430bea0c8138b7d14d1 54768 power-profiles-daemon-dbgsym_0.1-5_amd64.ddeb
+ 892e89c0ec558a17c85db1bb0f1c39db593a5b1fb3c44a61be1ce79fa48234fa 8899 power-profiles-daemon_0.1-5_amd64.buildinfo
+ 992391a7f82241c269a11376390a8ec23d20dbd0b530ac310206e98f4e8b3552 19764 power-profiles-daemon_0.1-5_amd64.deb
+Files:
+ 1397df0b843d8e59dc5f1b7d92c19279 1550 admin optional power-profiles-daemon_0.1-5.dsc
+ e373033f71e7e7644257dfbc74a85bac 3740 admin optional power-profiles-daemon_0.1-5.debian.tar.xz
+ e7e4aba44c3c6ee16f9d8376eed6a72a 54768 debug optional power-profiles-daemon-dbgsym_0.1-5_amd64.ddeb
+ c6d3286a847e1ef92b11db8c07ebf7ea 8899 admin optional power-profiles-daemon_0.1-5_amd64.buildinfo
+ 82e2e99f67b193e056cd7697aea556ad 19764 admin optional power-profiles-daemon_0.1-5_amd64.deb
