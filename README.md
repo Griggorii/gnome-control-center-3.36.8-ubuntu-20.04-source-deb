@@ -11,6 +11,8 @@ Less littered core that does not have a problem with bluetooth audio devices and
 
 Support https://www.youtube.com/channel/UC6WtVfU5gi2CQ4ionzbz1CQ and donate dollar card visa VISA 4817 7601 8112 4706 thanks
 
+New video driver ubuntu 20.04: https://github.com/Griggorii/Xorg_1.28-Mesa_27.0.1_Ubuntu_20.04
+
 My job idea portation rebuild send maintainer gnome-control-center ubuntu 21.04 to 20.04 dev spawn simlink not problem intresting Balanced Power | Power Saver  https://youtu.be/r0ki7MUEv7o?t=50 , intresting info Perfomance https://ubuntu.forumming.com/question/12458/ubuntu-21-04-power-mode
 
 Ubuntu 20.04 alternative power manager boost speed $ sudo apt-get install indicator-cpufreq && indicator-cpufreq && and run alt+F2 | indicator-cpufreq
