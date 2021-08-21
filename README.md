@@ -13,6 +13,8 @@ Support https://www.youtube.com/channel/UC6WtVfU5gi2CQ4ionzbz1CQ and donate doll
 
 My job idea portation rebuild send maintainer gnome-control-center ubuntu 21.04 to 20.04 dev spawn simlink not problem intresting Balanced Power | Power Saver  https://youtu.be/r0ki7MUEv7o?t=50 , intresting info Perfomance https://ubuntu.forumming.com/question/12458/ubuntu-21-04-power-mode
 
+Ubuntu 20.04 alternative power manager boost speed $ sudo apt-get install indicator-cpufreq && indicator-cpufreq && and run alt+F2 | indicator-cpufreq
+
 sudo ln -s /usr/lib/x86_64-linux-gnu/libgtk-3.so.0 /usr/lib/x86_64-linux-gnu/libgtk-3.so
 
 sudo ln -s /usr/lib/x86_64-linux-gnu/libgdk-3.so.0 /usr/lib/x86_64-linux-gnu/libgdk-3.so
