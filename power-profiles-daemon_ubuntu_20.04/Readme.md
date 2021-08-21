@@ -1,4 +1,4 @@
-Beta service ubuntu 20.04
+                                     {Beta service ubuntu 20.04 power-profiles}
 
 sudo systemctl enable power-profiles-daemon
 
