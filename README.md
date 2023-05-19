@@ -3,6 +3,10 @@ ubuntu 20.04 , gnome-control-center-3.36.8 , fix resize
 
 Preview control-center: https://github.com/Griggorii/gnome-control-center-3.36.8-ubuntu-20.04-update-new/blob/main/gnome-control-center-fix.webm
 
+md5sum f25261da354ae0c26e18c59aa6ae32d2 gnome-control-center-data_3.36.8_ubuntu_update_2023.tar.xz
+
+Install:
+
 sudo tar xvpf gnome-control-center-data_3.36.8_ubuntu_update_2023.tar.xz -C/
 
 Fixed: now shows access to the camera and microphone in the privacy tab, also suitable for older kernels where the power widget battary tab has disappeared when using an older but most likely less cluttered kernel
